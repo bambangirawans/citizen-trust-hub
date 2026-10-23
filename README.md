@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ TataNota TrustDeal: Citizen Hub & C2C  Platform
+# 🛡️ TataNota TrustDeal: Citizen Hub & C2C Platform
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Async-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -13,7 +13,7 @@
 
 TataNota TrustDeal is an *Enterprise-grade* Citizen-to-Citizen (C2C) collaboration ecosystem designed with **Zero-Trust Architecture** and **Transparency by Default** principles. This platform facilitates rentals, donations, community projects, and social campaigns that are permanently bound using a WORM (*Write-Once-Read-Many*) Ledger.
 
-[Website](https://tatanota.com) • [Trust Center](/trustdeal/trust_center) • [Developer Docs](/trustdeal/developer_manual)
+[Website](https://tatanota.com/trustdeal/welcome) • [Trust Center](https://tatanota.com/trustdeal/trust_center) • [Developer Docs](https://tatanota.com/trustdeal/developer_manual)
 
 </div>
 
@@ -33,7 +33,7 @@ A connected world where communities can collaborate, build trust, and turn share
 ### 💼 2. Citizen Hub & Micro-ERP (Open API)
 *   **Multi-Initiative Type:** Supports Services, Donations, Sales, Community Discussions, and Green Campaigns (*Green Initiative*).
 *   **Integrated Escrow:** Citizen funds are securely held and only *settled* to the organizer after consensus completion or a mediation decision (Dispute).
-*   **Kanban & RAB (Budgeting):** Organizers (Tenants) can manage schedules (*Milestones*) and budgets with full transparency to the public.
+*   **Kanban & Budgeting:** Organizers (Tenants) can manage schedules (*Milestones*) and budgets with full transparency to the public.
 
 ### 🧠 3. Cognitive AI & Multi-Modal Vision
 *   **Vision Inspection:** AI (Gemini 3.5 Flash) analyzes handover proof photos (Multimodal) to match physical item conditions with terms and conditions descriptions.
@@ -107,9 +107,9 @@ A connected world where communities can collaborate, build trust, and turn share
 
 Citizens and the *Open Source* developer community can transparently explore the services and public data within TrustDeal through the provided BFF (Backend-For-Frontend) API Contract.
 
-*   [**OpenAPI Contract (Swagger JSON)**](/v1/trustdeal/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
-*   [**Citizen & Tenant Guide (User Manual)**](/trustdeal/user_manual) - System usage guide for the public and initiative organizers.
-*   [**Whitepaper & Technical Architecture (Developer Manual)**](/trustdeal/developer_manual) - Comprehensive documentation on topology, *Zero-Trust*, DevOps, and *Telemetry*.
+*   [**OpenAPI Contract (Swagger JSON)**](https://tatanota.com/v1/trustdeal/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
+*   [**Citizen & Tenant Guide (User Manual)**](https://tatanota.com/trustdeal/user_manual) - System usage guide for the public and initiative organizers.
+*   [**Whitepaper & Technical Architecture (Developer Manual)**](https://tatanota.com/trustdeal/developer_manual) - Comprehensive documentation on topology, *Zero-Trust*, DevOps, and *Telemetry*.
 
 ---
 
@@ -129,6 +129,5 @@ If you find our work valuable, consider sponsoring the developer through GitHub 
 
 ---
 <div align="center">
-  <p>Built with ❤️ by TataNota Architecture Team</p>
   <a href="https://github.com/sponsors/bambangirawans" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Project-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor via GitHub" style="height: 35px !important;" ></a>
 </div>
