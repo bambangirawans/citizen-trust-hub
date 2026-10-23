@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ TataNota TrustDeal: Citizen Hub & C2C Platform
+# TataNota TrustDeal: Citizen Hub & C2C Platform
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Async-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -19,35 +19,35 @@ TataNota TrustDeal is an *Enterprise-grade* Citizen-to-Citizen (C2C) collaborati
 
 ---
 
-## 🌟 Our Vision
+## Our Vision
 
 A connected world where communities can collaborate, build trust, and turn shared ideas into meaningful social and economic impact.
 
-## 🚀 What We Are Building
+##  What We Are Building
 
-### 🔐 1. Zero-Trust Security & Cryptography (Core Engine)
+### 1. Zero-Trust Security & Cryptography (Core Engine)
 *   **WebCrypto ECDSA P-256:** Digital contract signing (*Smart Agreement*) is performed purely in the user's browser (Edge), ensuring *Non-Repudiation* without any third party knowing the private key.
 *   **WORM Ledger (Append-Only):** Every agreement, item handover, and transaction status is chained using a *SHA-256 Hash-Chain*. The slightest alteration in the past will mathematically break the entire chain (*Tamper-Evident*).
 *   **Optimistic Concurrency Control (OCC):** Strict conflict resolution to prevent *race conditions* or stale data during simultaneous state mutations.
 
-### 💼 2. Citizen Hub & Micro-ERP (Open API)
+### 2. Citizen Hub & Micro-ERP (Open API)
 *   **Multi-Initiative Type:** Supports Services, Donations, Sales, Community Discussions, and Green Campaigns (*Green Initiative*).
 *   **Integrated Escrow:** Citizen funds are securely held and only *settled* to the organizer after consensus completion or a mediation decision (Dispute).
 *   **Kanban & Budgeting:** Organizers (Tenants) can manage schedules (*Milestones*) and budgets with full transparency to the public.
 
-### 🧠 3. Cognitive AI & Multi-Modal Vision
+### 3. Cognitive AI & Multi-Modal Vision
 *   **Vision Inspection:** AI (Gemini 3.5 Flash) analyzes handover proof photos (Multimodal) to match physical item conditions with terms and conditions descriptions.
 *   **Semantic Similarity Search:** Utilizes *Local Embeddings (BAAI/bge-m3)* to recommend similar initiatives without relying on exact keyword matches.
 *   **Content Generation:** *AI Wizard* helps organizers design titles, persuasive descriptions, and T&C campaigns instantly.
 
-### 🛡️ 4. Governance & Anti-Scam
+### 4. Governance & Anti-Scam
 *   **Citizen Flagging:** Citizens can report initiatives indicated as *Scams* or duplicates.
 *   **Automated Risk Escalation:** The *Policy Engine* autonomously labels risky initiatives as `HIGH` if they reach a reporting threshold.
 *   **Operator Takedown:** Moderators (*HitL*) can perform instant *Takedowns* (Suspensions) via the command dashboard to protect public funds.
 
 ---
 
-## 🏗️ Architecture & Technology
+## Architecture & Technology
 
 *   **Backend:** Python 3.12+, Flask (Async), SQLAlchemy (AsyncPG), Pydantic (Strict DTO Validation).
 *   **Frontend (PWA):** Vanilla JS, Tailwind CSS, DOMPurify, Marked.js, Chart.js.
@@ -57,7 +57,7 @@ A connected world where communities can collaborate, build trust, and turn share
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
 
 - [x] Release Core Engine with WORM Ledger & Zero-Trust Architecture.
 - [x] Release Citizen Hub (PWA) for C2C collaboration.
@@ -69,7 +69,7 @@ A connected world where communities can collaborate, build trust, and turn share
 
 ---
 
-## 🚀 Getting Started (Internal Team Deployment)
+## Getting Started (Internal Team Deployment)
 
 ### System Requirements
 *   Docker & Docker Compose
@@ -97,29 +97,29 @@ A connected world where communities can collaborate, build trust, and turn share
     ```
 
 4.  **Access the Application**
-    *   Citizen Hub: `http://localhost:5000/trustdeal`
-    *   Swagger/OpenAPI: `http://localhost:5000/v1/trustdeal/openapi`
-    *   API Healthcheck: `http://localhost:5000/health`
+    *   Citizen Hub: `[https://tatanota.com/trustdeal]`
+    *   Swagger/OpenAPI: `[https://api.tatanota.com/v1/trustdeal/openapi]`
+    *   API Healthcheck: `[https://api.tatanota.com/health]`
 
 ---
 
-## 📖 Documentation & Citizen Exploration (Open API)
+## Documentation & Citizen Exploration (Open API)
 
 Citizens and the *Open Source* developer community can transparently explore the services and public data within TrustDeal through the provided BFF (Backend-For-Frontend) API Contract.
 
-*   [**OpenAPI Contract (Swagger JSON)**](https://tatanota.com/v1/trustdeal/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
+*   [**OpenAPI Contract (Swagger JSON)**](https://api.tatanota.com/v1/trustdeal/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
 *   [**Citizen & Tenant Guide (User Manual)**](https://tatanota.com/trustdeal/user_manual) - System usage guide for the public and initiative organizers.
 *   [**Whitepaper & Technical Architecture (Developer Manual)**](https://tatanota.com/trustdeal/developer_manual) - Comprehensive documentation on topology, *Zero-Trust*, DevOps, and *Telemetry*.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome developers, designers, researchers, and community builders interested in trusted digital collaboration.
 
 Please check our contribution guidelines before submitting changes.
 
-## ☕ Support Development
+## Support Development
 
 Your support helps sustain open-source development, documentation, testing, and maintenance of the *Open API* and public collaboration modules.
 
