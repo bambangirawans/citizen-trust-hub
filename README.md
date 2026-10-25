@@ -11,9 +11,9 @@
 
 **Building Trust in Every Digital Handshake.**
 
-TataNota TrustDeal is an *Enterprise-grade* Citizen-to-Citizen (C2C) collaboration ecosystem designed with **Zero-Trust Architecture** and **Transparency by Default** principles. This platform facilitates rentals, donations, community projects, and social campaigns that are permanently bound using a WORM (*Write-Once-Read-Many*) Ledger.
+Citizen Trust Hub is an *Secure* Citizen-to-Citizen (C2C) collaboration ecosystem designed with **Zero-Trust Architecture** and **Transparency by Default** principles. This platform facilitates rentals, donations, community projects, and social campaigns that are permanently bound using a WORM (*Write-Once-Read-Many*) Ledger.
 
-[Website](https://tatanota.com/trustdeal/welcome) • [Trust Center](https://tatanota.com/trustdeal/trust_center) • [Developer Docs](https://tatanota.com/trustdeal/developer_manual)
+[Website](https://citizen.tatanota.com/) • [Trust Center](https://citizen.tatanota.com/trust_center) • [Developer Docs](https://citizen.tatanota.com/developer_manual)
 
 </div>
 
@@ -97,19 +97,19 @@ A connected world where communities can collaborate, build trust, and turn share
     ```
 
 4.  **Access the Application**
-    *   Citizen Hub: `[https://tatanota.com/trustdeal]`
-    *   Swagger/OpenAPI: `[https://api.tatanota.com/v1/trustdeal/openapi]`
+    *   Citizen Hub: `[https://citizen.tatanota.coml]`
+    *   Swagger/OpenAPI: `[https://api.tatanota.com/v1/citizentrusthub/openapi]`
     *   API Healthcheck: `[https://api.tatanota.com/health]`
 
 ---
 
 ## Documentation & Citizen Exploration (Open API)
 
-Citizens and the *Open Source* developer community can transparently explore the services and public data within TrustDeal through the provided BFF (Backend-For-Frontend) API Contract.
+Citizens and the *Open Source* developer community can transparently explore the services and public data within trust hub through the provided BFF (Backend-For-Frontend) API Contract.
 
-*   [**OpenAPI Contract (Swagger JSON)**](https://api.tatanota.com/v1/trustdeal/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
-*   [**Citizen & Tenant Guide (User Manual)**](https://tatanota.com/trustdeal/user_manual) - System usage guide for the public and initiative organizers.
-*   [**Whitepaper & Technical Architecture (Developer Manual)**](https://tatanota.com/trustdeal/developer_manual) - Comprehensive documentation on topology, *Zero-Trust*, DevOps, and *Telemetry*.
+*   [**OpenAPI Contract (Swagger JSON)**](https://api.tatanota.com/v1/citizentrusthub/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI to simulate initiative searches (`GET /items`) or monitor transactions.
+*   [**Citizen & Tenant Guide (User Manual)**](https://citizen.tatanota.com/user_manual) - System usage guide for the public and initiative organizers.
+*   [**Whitepaper & Technical Architecture (Developer Manual)**](https://citizen.tatanota.com/developer_manual) - Comprehensive documentation on topology, *Zero-Trust*, DevOps, and *Telemetry*.
 
 ---
 
