@@ -1,254 +1,311 @@
-<div align="center">
+# CitizenTrustHub
+### Digital Trust Infrastructure for Citizen-to-Citizen Ecosystems
 
-[ 🇬🇧 English ](#english-version) | [ 🇮🇩 Indonesia ](#versi-indonesia)
+**Connecting Intelligence, Transparency, and Accountability.**
 
-</div>
+[![Project](https://img.shields.io/badge/Project-Social_Technology-blue)](https://citizen.tatanota.com/)
+[![Focus](https://img.shields.io/badge/Focus-Digital_Trust-green)](https://citizen.tatanota.com/)
+[![Status](https://img.shields.io/badge/Status-In_Development-orange)](https://citizen.tatanota.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-Not_Yet_Published-lightgrey)](https://github.com/bambangirawans/citizen-trust-hub)
+
+---
+
+## 🇬🇧 English
+
+### About CitizenTrustHub
+
+**CitizenTrustHub** is a citizen-led social technology initiative focused on strengthening digital trust, transparency, and accountability across **Citizen-to-Citizen (C2C) ecosystems**.
+
+We believe digital trust should go beyond transactions. It should support responsible collaboration, community initiatives, information sharing, and meaningful accountability between citizens.
+
+CitizenTrustHub is being developed as a digital trust infrastructure that connects intelligence, transparency, and accountability in one ecosystem.
+
+### Vision
+
+A more trustworthy digital society where citizens can collaborate, share information, and participate in community initiatives with greater transparency and accountability.
+
+### Mission
+
+- Improve digital trust and verification literacy.
+- Support transparent community initiatives and citizen collaboration.
+- Encourage responsible digital interactions and documentation.
+- Make relevant information and potential risks easier to understand.
+- Develop accessible digital tools that strengthen accountability.
+
+### Our Three Pillars
+
+#### 1. Intelligence
+
+Helping citizens understand digital information and potential risks through:
+
+- Smart search and verification.
+- URL, domain, and OSINT analysis.
+- Risk indicators and contextual information.
+- AI-assisted information analysis.
+
+#### 2. Transparency
+
+Encouraging openness in community initiatives through:
+
+- Community and initiative information.
+- Activity and progress documentation.
+- Accessible records and relevant updates.
+- Clear information about objectives and responsibilities.
+
+#### 3. Accountability
+
+Supporting responsible collaboration through:
+
+- Digital Handshake records.
+- Digital Activity Records.
+- Documented statements and confirmations.
+- Reviewable activity histories.
+- Feedback and correction mechanisms.
+
+*Digital records provide context and documentation. They do not independently prove the truth of statements or guarantee that obligations have been fulfilled.*
+
+### Our Social Commitment: Practice What We Promote
+
+CitizenTrustHub aims to apply the principles it promotes to its own operations.
+
+We are committed to progressively improving transparency regarding:
+
+- Mission, objectives, and governance.
+- Development progress and feature status.
+- Funding and operational activities.
+- Privacy and data protection.
+- Decisions, corrections, and continuous improvement.
+
+### Our Principles
+
+| Principle | Commitment |
+|---|---|
+| Intelligence | Promote informed decisions based on relevant information. |
+| Transparency | Make important information accessible and understandable. |
+| Accountability | Encourage responsible actions and documented commitments. |
+| Privacy | Respect personal data and protect information. |
+| Integrity | Promote honesty and responsible use of the platform. |
+| Inclusivity | Support accessible participation across communities. |
+| Independence | Maintain a mission-driven and responsible approach. |
+
+### Who We Aim to Support
+
+- Local communities and citizen groups.
+- Social and environmental initiatives.
+- Volunteers and community organizers.
+- Nonprofits, foundations, and civil society organizations.
+- Community empowerment and educational programs.
+- Responsible citizen-led collaborations.
+
+### Development Areas
+
+CitizenTrustHub is being developed around several complementary areas:
+
+1. **Smart Verification & Digital Intelligence**
+2. **Community & Initiative Management**
+3. **Digital Handshake**
+4. **Digital Activity Records**
+5. **Trust & Accountability Center**
+
+Feature availability and implementation status may differ. Please refer to the live platform and documentation for current information.
+
+### Important Limitations
+
+CitizenTrustHub is designed to support digital trust, not to eliminate every risk.
+
+- The platform does not guarantee that every user, organization, or initiative is trustworthy.
+- Risk indicators and AI-assisted analysis are not definitive proof of fraud or authenticity.
+- Digital Handshake records do not prove the truth of every statement or fulfillment of every obligation.
+- Technical records and ledger mechanisms have operational and technical limitations.
+- CitizenTrustHub does not provide escrow, hold payments, or guarantee payments.
+- Payments, where applicable, take place directly between the parties outside the platform.
+- CitizenTrustHub is not a court, arbitrator, legal adviser, or guarantor of transactions and agreements.
+- Users remain responsible for evaluating information, identities, commitments, and risks.
+
+### Roadmap Priorities
+
+Our development priorities include:
+
+- Improving digital verification and intelligence capabilities.
+- Strengthening transparency tools for community initiatives.
+- Improving digital documentation and accountability workflows.
+- Expanding public documentation and governance practices.
+- Exploring partnerships with communities and social organizations.
+
+*Roadmap items represent development intentions, not guaranteed delivery dates or commitments.*
+
+### Documentation & Resources
+
+- **Website:** https://citizen.tatanota.com/
+- **Trust Center:** https://citizen.tatanota.com/
+- **User Manual:** [CitizenTrustHub User Manual](https://citizen.tatanota.com/)
+- **Developer Manual:** [Developer Documentation](https://citizen.tatanota.com/)
+- **API Documentation:** https://api.tatanota.com/v1/openapi
+
+### Connect with CitizenTrustHub
+
+Follow our channels for project updates, digital trust education, community activities, and development news.
+
+- **Instagram:** https://www.instagram.com/citizentrusthub/
+- **YouTube:** https://www.youtube.com/@citizentrusthub
+- **GitHub:** https://github.com/bambangirawans/citizen-trust-hub
+
+### Support the Initiative
+
+CitizenTrustHub is a citizen-led social technology initiative. Support helps us continue developing tools and activities that promote digital trust, transparency, and accountability.
+
+- **GitHub Sponsors:** https://github.com/sponsors/bambangirawans
 
 ---
 
-<div id="english-version" align="center">
+## 🇮🇩 Bahasa Indonesia
 
-# Citizen Trust Hub -  Trust Citizen Colaboration Platform
+### Tentang CitizenTrustHub
 
-[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-Async-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-7-DC382D.svg?logo=redis&logoColor=white)](https://redis.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+**CitizenTrustHub** adalah inisiatif teknologi sosial berbasis partisipasi warga yang berfokus pada penguatan kepercayaan digital, transparansi, dan akuntabilitas dalam ekosistem **Citizen-to-Citizen (C2C)**.
 
-**Building Trust in Every Digital Handshake.**
+Kami percaya bahwa kepercayaan digital tidak hanya berkaitan dengan transaksi. Kepercayaan juga diperlukan dalam kolaborasi, kegiatan komunitas, pertukaran informasi, dan hubungan ant warga yang bertanggung jawab.
 
-Citizen Trust Hub is a secure Citizen-to-Citizen (C2C) collaboration ecosystem designed with **Zero-Trust Architecture** and **Transparency by Default** principles. This platform facilitates rentals, donations, community projects, and social campaigns whose audit trails are permanently secured using a Cryptographic WORM (*Write-Once-Read-Many*) Ledger.
+CitizenTrustHub dikembangkan sebagai infrastruktur kepercayaan digital yang menghubungkan kecerdasan informasi, transparansi, dan akuntabilitas dalam satu ekosistem.
 
-[Citizen Website](https://citizen.tatanota.com) • [Trust Center](https://citizen.tatanota.com/trust_center) • [API & Developer Docs](https://citizen.tatanota.com/developer_manual)
+### Visi
 
-</div>
+Mewujudkan masyarakat digital yang lebih terpercaya, tempat warga dapat berkolaborasi, berbagi informasi, dan berpartisipasi dalam kegiatan komunitas dengan transparansi dan akuntabilitas yang lebih baik.
 
-## Our Vision
+### Misi
 
-A connected world where communities can collaborate, build trust, and turn shared ideas into meaningful social and economic impact through transparent and auditable digital records.
+- Meningkatkan literasi kepercayaan dan verifikasi digital.
+- Mendukung transparansi inisiatif komunitas dan kolaborasi warga.
+- Mendorong interaksi digital yang bertanggung jawab dan terdokumentasi.
+- Membantu masyarakat memahami informasi dan potensi risiko.
+- Mengembangkan perangkat digital yang mudah diakses untuk memperkuat akuntabilitas.
 
-## What We Are Building
+### Tiga Pilar Utama
 
-### 1. Zero-Trust Security & Hardware Identity (Core Engine)
-*   **WebAuthn (Passkeys):** Replaces legacy passwords and brittle browser-bound keys with FIDO2 hardware-bound biometric authentication (TouchID/FaceID). Ensures robust *Non-Repudiation* where users authenticate securely via their OS password manager.
-*   **WORM Ledger (Append-Only):** Every digital agreement, status report, and dispute facilitation is chained using a *SHA-256 Hash-Chain*. The slightest alteration to past data will mathematically break the entire chain (*Tamper-Evident*).
-*   **Optimistic Concurrency Control (OCC):** Strict conflict resolution to prevent *race conditions* or stale data manipulation during simultaneous state mutations.
+#### 1. Intelligence — Kecerdasan Informasi
 
-### 2. Citizen Hub & Operations Management 
-*   **Multi-Initiative Type:** Supports various collaborative activities such as Rentals, Donations, Sales, Community Discussions, and Green Campaigns.
-*   **Zero-Escrow Financial Tracking:** The platform explicitly acts *only* as a recording facilitator. We do not hold funds or provide automated payment gateways. Users self-report financial milestones and fund transfers independently, ensuring legal compliance and reducing centralized financial risk.
-*   **Kanban & Budgeting:** Organizers (Tenants) can manage schedules (*Milestones*) and self-reported budgets with full transparency to the public via a micro-ERP interface.
+Membantu masyarakat memahami informasi digital dan potensi risiko melalui:
 
-### 3. Cognitive AI Copilot & Multi-Signal Validation
-*   **Universal Omnibox (OSINT + AI):** A unified search bar allowing citizens to scan initiative links or names against live Open Source Intelligence (OSINT), legal compliance rules, and AI Fraud Detection models, producing a holistic Risk Score before participation.
-*   **Visual Inspection (Vision AI):** AI (Gemini 3.5 Flash) analyzes uploaded images (Multimodal) to identify potential anomalies or forensic manipulation during digital handshakes.
-*   **Semantic Similarity Search (RAG):** Utilizes *Local Embeddings (BAAI/bge-m3)* coupled with an internal Neo4j Knowledge Graph to recommend relevant initiatives and contextualize anomalies.
+- Pencarian dan verifikasi cerdas.
+- Analisis URL, domain, dan OSINT.
+- Indikator risiko dan informasi kontekstual.
+- Analisis informasi berbantuan AI.
 
-### 4. Governance & Dispute Facilitation
-*   **Citizen Flagging:** Citizens can report initiatives indicated as *Scams* or duplicates.
-*   **Automated Risk Escalation:** The *Policy Engine* autonomously labels risky initiatives as `HIGH` if they breach multi-signal AI thresholds or human reporting limits.
-*   **Dispute Facilitation (HITL):** Operators (*Human-in-the-Loop*) can intervene in flagged transactions or user disputes, reviewing the WORM audit trail to execute instant freezes (Takedown) via the central control dashboard.
+#### 2. Transparency — Transparansi
 
-## Architecture & Technology
+Mendorong keterbukaan dalam kegiatan komunitas melalui:
 
-*   **Backend & Gateway:** Python 3.12+, Flask (Async), SQLAlchemy (AsyncPG), Pydantic V2 (Strict DTO Validation), PyOTP.
-*   **Frontend (Edge PWA):** Vanilla JS, Tailwind CSS, DOMPurify, Marked.js, WebAuthn API.
-*   **Event Bus & Workers:** Redis Streams, *Transactional Outbox Pattern* (PostgreSQL to Redis) with isolated background daemon to prevent lock collisions.
-*   **Web Server (Reverse Proxy):** NGINX configured for *Server-Sent Events* (SSE) chunking and HTTP Connection Pooling.
+- Informasi komunitas dan inisiatif.
+- Dokumentasi aktivitas dan perkembangan.
+- Catatan dan pembaruan yang relevan.
+- Informasi yang jelas mengenai tujuan dan tanggung jawab.
 
-## Roadmap
+#### 3. Accountability — Akuntabilitas
 
-- [x] Release Core Engine with WORM Ledger & Zero-Trust Architecture.
-- [x] Migrate to Biometric-First WebAuthn (Passkeys) Identity.
-- [x] Release Citizen Hub (PWA) for C2C collaboration.
-- [x] Implement Multi-Signal Cognitive AI (Omnibox) for OSINT & Fraud Detection.
-- [x] Isolate microservices with Gunicorn Gthread for concurrent scalability.
-- [x] Publish Open API Contract for public exploration.
-- [ ] Release Developer SDK for third-party integrations.
-- [ ] Implement Web of Trust (Vouching) for rural entities lacking global OSINT footprints.
+Mendukung kolaborasi yang bertanggung jawab melalui:
 
-## Getting Started (Internal Team Deployment)
+- Digital Handshake.
+- Digital Activity Records.
+- Dokumentasi pernyataan dan konfirmasi.
+- Riwayat aktivitas yang dapat ditinjau.
+- Mekanisme umpan balik dan koreksi.
 
-### System Requirements
-*   Linux VM (Ubuntu/Debian)
-*   Python 3.12+ (Virtual Environment)
-*   PostgreSQL 15+ & Redis 7+
-*   NGINX
-*   Minimum 4GB RAM (8GB recommended for Local Embedder Memory Mapping)
-*   Google GenAI (Gemini) API Key
+*Catatan digital memberikan konteks dan dokumentasi. Catatan tersebut tidak dengan sendirinya membuktikan kebenaran pernyataan atau menjamin pemenuhan kewajiban.*
 
-### Installation & Running (Production/VM)
+### Komitmen Sosial: Mempraktikkan Prinsip yang Kami Promosikan
 
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/bambangirawans/citizen-trust-hub.git](https://github.com/bambangirawans/citizen-trust-hub.git)
-    cd citizen-trust-hub
-    ```
+CitizenTrustHub berupaya menerapkan prinsip-prinsip yang dipromosikannya dalam pengelolaan inisiatif itu sendiri.
 
-2.  **Environment Configuration**
-    Copy the `.env.example` file to `.env` and fill in the required configurations.
-    ```bash
-    cp .env.example .env
-    ```
-    *Critical: You must provide a valid `SECRET_KEY`, async `PostgreSQL` credentials, `Redis` URL, and `GOOGLE_API_KEY` to prevent AI fallback crashes.*
+Kami berkomitmen untuk secara bertahap meningkatkan transparansi mengenai:
 
-3.  **Dependencies & Services Preparation (Systemd)**
-    Use `pip` within the *virtual environment* (`.venv`) to install `requirements.txt`.
-    The system utilizes multiple independent *Systemd Services*:
-    *   `tatanota-web.service` (IdP, WebAuthn & Core API on Port 5000)
-    *   `citizentrusthub.service` (C2C Microservice on Port 5001)
-    *   `tatanota-outbox.service` (Isolated Background Event Worker)
+- Misi, tujuan, dan tata kelola.
+- Perkembangan proyek dan status fitur.
+- Pendanaan dan aktivitas operasional.
+- Privasi dan perlindungan data.
+- Keputusan, koreksi, dan perbaikan berkelanjutan.
 
-4.  **NGINX Configuration**
-    Ensure NGINX routes are configured to handle streaming (SSE) without *buffering*, inject `X-Forwarded-For` for IP Spoofing protection, and route traffic to Ports 5000 and 5001.
+### Prinsip Kami
 
-5.  **Access the Application**
-    *   Citizen Hub: `https://citizen.tatanota.com`
-    *   Trust Center (WORM & AI Scanner): `https://citizen.tatanota.com/trust_center`
+| Prinsip | Komitmen |
+|---|---|
+| Intelligence | Mendorong keputusan berdasarkan informasi yang relevan. |
+| Transparency | Menyediakan informasi penting secara terbuka dan mudah dipahami. |
+| Accountability | Mendorong tindakan bertanggung jawab dan komitmen yang terdokumentasi. |
+| Privacy | Menghormati data pribadi dan menjaga informasi. |
+| Integrity | Mengutamakan kejujuran dan penggunaan platform secara bertanggung jawab. |
+| Inclusivity | Mendukung partisipasi yang mudah diakses oleh berbagai komunitas. |
+| Independence | Menjaga pendekatan yang berorientasi pada misi dan tanggung jawab sosial. |
 
-## Documentation & Open API Exploration
+### Pihak yang Ingin Kami Dukung
 
-Citizens, researchers, and the *Open Source* developer community can transparently explore public services and data within the Citizen Trust Hub ecosystem through the provided BFF (*Backend-For-Frontend*) API Contract.
+- Komunitas lokal dan kelompok warga.
+- Inisiatif sosial dan lingkungan.
+- Relawan dan penggerak komunitas.
+- Organisasi nonprofit, yayasan, dan masyarakat sipil.
+- Program pemberdayaan masyarakat dan pendidikan.
+- Kolaborasi warga yang bertanggung jawab.
 
-*   [**OpenAPI Contract (Swagger JSON)**](https://api.tatanota.com/v1/openapi) - Complete Swagger v3.0.3 specification. You can import this JSON file into Postman or Swagger UI.
-*   [**Citizen & Organizer Guide (User Manual)**](https://citizen.tatanota.com/user_manual) - Integrated system usage guidelines for the public and initiative organizers.
-*   [**Whitepaper & Technical Architecture (Developer Manual)**](https://citizen.tatanota.com/developer_manual) - Comprehensive documentation on infrastructure topology, *Zero-Trust*, security, and network telemetry.
+### Area Pengembangan
 
-## Support & Contribution
+CitizenTrustHub dikembangkan melalui beberapa area yang saling melengkapi:
 
-We welcome the involvement of developers, designers, researchers, and community builders interested in building a trusted digital collaboration ecosystem.
+1. **Smart Verification & Digital Intelligence**
+2. **Community & Initiative Management**
+3. **Digital Handshake**
+4. **Digital Activity Records**
+5. **Trust & Accountability Center**
 
-Your support helps maintain the continuity of open-source development, documentation, infrastructure testing, and maintenance of this collaboration module's *Open API*.
+Ketersediaan dan status implementasi setiap fitur dapat berbeda. Silakan merujuk pada platform dan dokumentasi untuk mengetahui informasi terkini.
 
-If you find this platform valuable, consider sponsoring the developer through GitHub Sponsors.
+### Batasan Penting
 
-<div align="center">
-  <a href="https://github.com/sponsors/bambangirawans" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Project-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor via GitHub" style="height: 35px !important;" ></a>
-</div>
+CitizenTrustHub dirancang untuk mendukung kepercayaan digital, bukan untuk menghilangkan seluruh risiko.
+
+- Platform tidak menjamin bahwa setiap pengguna, organisasi, atau inisiatif dapat dipercaya.
+- Indikator risiko dan analisis berbantuan AI bukan bukti definitif penipuan atau keaslian.
+- Digital Handshake tidak membuktikan kebenaran setiap pernyataan atau pemenuhan seluruh kewajiban.
+- Catatan teknis dan mekanisme ledger memiliki keterbatasan operasional dan teknis.
+- CitizenTrustHub tidak menyediakan escrow, menahan pembayaran, atau menjamin pembayaran.
+- Pembayaran, jika ada, dilakukan langsung oleh para pihak di luar platform.
+- CitizenTrustHub bukan pengadilan, arbiter, penasihat hukum, atau penjamin transaksi dan perjanjian.
+- Pengguna tetap bertanggung jawab untuk menilai informasi, identitas, komitmen, dan risiko.
+
+### Prioritas Pengembangan
+
+Prioritas pengembangan kami meliputi:
+
+- Peningkatan kemampuan verifikasi dan kecerdasan informasi digital.
+- Penguatan perangkat transparansi untuk inisiatif komunitas.
+- Penyempurnaan dokumentasi digital dan alur akuntabilitas.
+- Pengembangan dokumentasi publik dan praktik tata kelola.
+- Penjajakan kemitraan dengan komunitas dan organisasi sosial.
+
+*Roadmap merupakan arah dan rencana pengembangan, bukan jaminan tanggal atau kepastian implementasi.*
+
+### Dokumentasi & Sumber Informasi
+
+- **Website:** https://citizen.tatanota.com/
+- **Trust Center:** https://citizen.tatanota.com/
+- **Panduan Pengguna:** [CitizenTrustHub User Manual](https://citizen.tatanota.com/)
+- **Panduan Developer:** [Developer Documentation](https://citizen.tatanota.com/)
+- **Dokumentasi API:** https://api.tatanota.com/v1/openapi
+
+### Terhubung dengan CitizenTrustHub
+
+Ikuti kanal resmi kami untuk mendapatkan informasi mengenai perkembangan proyek, edukasi kepercayaan digital, kegiatan komunitas, dan pembaruan pengembangan.
+
+- **Instagram:** https://www.instagram.com/citizentrusthub/
+- **YouTube:** https://www.youtube.com/@citizentrusthub
+- **GitHub:** https://github.com/bambangirawans/citizen-trust-hub
+
+### Dukung Inisiatif Ini
+
+CitizenTrustHub merupakan inisiatif teknologi sosial berbasis partisipasi warga. Dukungan yang diberikan membantu keberlanjutan pengembangan perangkat dan kegiatan yang mendorong kepercayaan digital, transparansi, dan akuntabilitas.
+
+- **GitHub Sponsors:** https://github.com/sponsors/bambangirawans
 
 ---
-<br>
 
-<div id="versi-indonesia" align="center">
+**CitizenTrustHub — Connecting Intelligence, Transparency, and Accountability.**
 
-# Citizen Trust Hub -  Trust Citizen Colaboration Platform
-
-[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-Async-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-7-DC382D.svg?logo=redis&logoColor=white)](https://redis.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
-
-**Membangun Kepercayaan Di Setiap Jabat Tangan Digital.**
-
-Citizen Trust Hub adalah ekosistem kolaborasi *Citizen-to-Citizen* (C2C) aman yang dirancang dengan prinsip **Zero-Trust Architecture** dan **Transparency by Default**. Platform ini memfasilitasi persewaan, donasi, proyek komunitas, dan kampanye sosial yang jejak auditnya diikat secara permanen menggunakan Kriptografi WORM (*Write-Once-Read-Many*) Ledger.
-
-[Website Warga](https://citizen.tatanota.com) • [Trust Center](https://citizen.tatanota.com/trust_center) • [API & Dokumen Developer](https://citizen.tatanota.com/developer_manual)
-
-</div>
-
-## Visi Kami
-
-Dunia yang terhubung di mana komunitas dapat berkolaborasi, membangun kepercayaan, dan mewujudkan gagasan bersama menjadi dampak sosial dan ekonomi yang nyata melalui jejak rekam digital yang transparan dan dapat diaudit.
-
-## Apa yang Kami Bangun
-
-### 1. Keamanan Zero-Trust & Identitas Berbasis Perangkat (Core Engine)
-*   **WebAuthn (Passkeys):** Menggantikan kata sandi usang dan kunci *browser* yang rentan dengan otentikasi biometrik bawaan perangkat keras (FIDO2/TouchID/FaceID). Menjamin *Non-Repudiation* yang sangat tangguh sekaligus kebal dari insiden terhapusnya *cache*.
-*   **WORM Ledger (Append-Only):** Setiap kesepakatan digital, pelaporan status, dan fasilitasi sengketa diikat menggunakan *SHA-256 Hash-Chain*. Sedikit saja perubahan pada data masa lalu akan secara matematis merusak seluruh rantai (*Tamper-Evident*).
-*   **Optimistic Concurrency Control (OCC):** Resolusi konflik yang sangat ketat untuk mencegah *race conditions* atau manipulasi data usang saat mutasi status (*state*) terjadi bersamaan.
-
-### 2. Citizen Hub & Manajemen Operasional 
-*   **Multi-Tipe Inisiatif:** Mendukung berbagai kegiatan seperti Persewaan Jasa, Donasi, Jual-Beli, Rembuk Komunitas, dan Kampanye Hijau (*Green Initiative*).
-*   **Pelacakan Finansial Tanpa Escrow Internal (Zero-Escrow):** Platform bertindak *sebatas* sebagai fasilitator pencatatan. Kami **tidak menahan dana** atau menyediakan gerbang pembayaran otomatis. Pengguna melaporkan (*self-report*) tonggak capaian dan transfer dana secara mandiri di luar sistem, memastikan kepatuhan hukum dan meminimalisir risiko finansial terpusat.
-*   **Kanban & Budgeting:** Penyelenggara (Tenant) dapat mengelola jadwal (*Milestones*) dan pelaporan anggaran secara transparan kepada publik melalui antarmuka mikro-ERP.
-
-### 3. Copilot AI Kognitif & Validasi Multi-Sinyal
-*   **Universal Omnibox (OSINT + AI):** Kotak pencarian terpadu yang memungkinkan warga memindai tautan atau nama inisiatif. Mesin AI memadukan Open Source Intelligence (OSINT) langsung, aturan kepatuhan hukum, dan detektor penipuan (Fraud) untuk menghasilkan Skor Risiko menyeluruh sebelum warga berpartisipasi.
-*   **Inspeksi Visual (Vision AI):** AI (Gemini 3.5 Flash) menganalisis foto yang diunggah (Multimodal) untuk mendeteksi potensi anomali fisik atau manipulasi forensik selama proses jabat tangan digital.
-*   **Semantic Similarity Search (RAG):** Menggunakan *Local Embeddings (BAAI/bge-m3)* yang disatukan dengan internal Neo4j Knowledge Graph untuk merekomendasikan inisiatif yang relevan dan memberikan konteks tambahan atas sebuah anomali.
-
-### 4. Tata Kelola & Fasilitasi Sengketa
-*   **Pelaporan Warga (Flagging):** Warga dapat melaporkan inisiatif yang terindikasi *Scam* atau duplikasi.
-*   **Eskalasi Risiko Otomatis:** *Policy Engine* akan secara mandiri melabeli inisiatif berisiko menjadi `HIGH` jika menembus ambang batas peringatan AI atau batas pelaporan warga.
-*   **Fasilitasi Sengketa (HITL):** Operator (*Human-in-the-Loop*) dapat mengintervensi transaksi yang bermasalah, meninjau jejak audit WORM, dan melakukan pembekuan instan (Takedown) melalui dasbor kendali.
-
-## Arsitektur & Teknologi Terkini
-
-*   **Backend & Gateway:** Python 3.12+, Flask (Async), SQLAlchemy (AsyncPG), Pydantic V2 (Validasi DTO Mutlak), PyOTP.
-*   **Frontend (Edge PWA):** Vanilla JS, Tailwind CSS, DOMPurify, Marked.js, WebAuthn API.
-*   **Event Bus & Workers:** Redis Streams, *Transactional Outbox Pattern* (PostgreSQL ke Redis) dengan daemon latar belakang yang diisolasi (Mencegah *Lock Collisions*).
-*   **Web Server (Reverse Proxy):** NGINX dengan konfigurasi *Chunking Server-Sent Events* (SSE) dan *HTTP Connection Pooling*.
-
-## Peta Jalan (Roadmap)
-
-- [x] Rilis Core Engine dengan WORM Ledger & Zero-Trust Architecture.
-- [x] Migrasi ke Identitas Biometrik (Biometric-First WebAuthn / Passkeys).
-- [x] Rilis Citizen Hub (PWA) untuk kolaborasi C2C.
-- [x] Implementasi AI Kognitif Multi-Sinyal (Omnibox) untuk OSINT & Deteksi Fraud.
-- [x] Isolasi layanan (Microservices) dengan Gunicorn Gthread untuk skalabilitas konkuren.
-- [x] Publikasi Open API Contract untuk eksplorasi publik.
-- [ ] Rilis Developer SDK untuk integrasi sistem pihak ketiga.
-- [ ] Implementasi Web of Trust (Vouching) untuk inisiatif komunitas lokal yang tidak memiliki rekam jejak digital global (OSINT).
-
-## Memulai (Panduan Instalasi Tim Internal)
-
-### Persyaratan Sistem
-*   Linux VM (Ubuntu/Debian)
-*   Python 3.12+ (Virtual Environment)
-*   PostgreSQL 15+ & Redis 7+
-*   NGINX
-*   Minimal 4GB RAM (Direkomendasikan 8GB untuk alokasi memori Local Embedder)
-*   Google GenAI (Gemini) API Key
-
-### Instalasi & Menjalankan (Produksi/VM)
-
-1.  **Kloning Repositori**
-    ```bash
-    git clone [https://github.com/bambangirawans/citizen-trust-hub.git](https://github.com/bambangirawans/citizen-trust-hub.git)
-    cd citizen-trust-hub
-    ```
-
-2.  **Konfigurasi Lingkungan**
-    Salin file `.env.example` ke `.env` dan lengkapi konfigurasi yang diwajibkan.
-    ```bash
-    cp .env.example .env
-    ```
-    *Sangat Penting: Anda wajib mengisi `SECRET_KEY`, kredensial `PostgreSQL` asinkron, URL `Redis`, dan `GOOGLE_API_KEY` guna mencegah sistem AI mengalami Crash seketika (Fallback Error).*
-
-3.  **Persiapan Dependensi & Layanan (Systemd)**
-    Gunakan `pip` dalam *virtual environment* (`.venv`) untuk menginstal `requirements.txt`.
-    Sistem mengeksekusi beberapa *Service Systemd* independen:
-    *   `tatanota-web.service` (IdP, WebAuthn API & Core Gateway di Port 5000)
-    *   `citizentrusthub.service` (Layanan Microservice C2C di Port 5001)
-    *   `tatanota-outbox.service` (Daemon Pekerja Event terisolasi)
-
-4.  **Konfigurasi NGINX**
-    Pastikan rute NGINX telah dikonfigurasi untuk menyalurkan aliran *streaming* (SSE) tanpa *buffering*, menyuntikkan `X-Forwarded-For` untuk pelindung IP Spoofing, serta merutekan lalu lintas ke Port 5000 dan 5001.
-
-5.  **Akses Aplikasi**
-    *   Citizen Hub (Warga): `https://citizen.tatanota.com`
-    *   Pusat Transparansi (WORM & Omnibox): `https://citizen.tatanota.com/trust_center`
-
-## Dokumentasi & Eksplorasi Terbuka (Open API)
-
-Warga, peneliti, dan komunitas pengembang *Open Source* dapat menjelajahi layanan dan data publik secara transparan di dalam ekosistem Citizen Trust Hub melalui Kontrak API BFF (*Backend-For-Frontend*) yang disediakan.
-
-*   [**OpenAPI Contract (Swagger JSON)**](https://api.tatanota.com/v1/openapi) - Spesifikasi lengkap Swagger v3.0.3.
-*   [**Panduan Warga & Penyelenggara (User Manual)**](https://citizen.tatanota.com/user_manual) - Petunjuk penggunaan sistem terpadu bagi masyarakat dan penyelenggara inisiatif.
-*   [**Whitepaper & Arsitektur Teknis (Developer Manual)**](https://citizen.tatanota.com/developer_manual) - Dokumentasi komprehensif mengenai topologi infrastruktur, *Zero-Trust*, keamanan, dan telemetri jaringan.
-
-## Dukungan & Kontribusi
-
-Kami menyambut baik keterlibatan pengembang, desainer, peneliti, dan penggerak komunitas yang tertarik membangun ekosistem kolaborasi digital yang tepercaya.
-
-Dukungan Anda membantu menjaga keberlangsungan pengembangan sumber terbuka, dokumentasi, pengujian infrastruktur, dan pemeliharaan *Open API* modul kolaborasi ini.
-
-Jika Anda menganggap platform ini berharga dan bermanfaat, pertimbangkan untuk mensponsori pengembang melalui GitHub Sponsors.
-
-<div align="center">
-  <a href="https://github.com/sponsors/bambangirawans" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Project-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor via GitHub" style="height: 35px !important;" ></a>
-</div>
+*Building digital trust, one responsible citizen collaboration at a time.*
